@@ -37,8 +37,6 @@ The "Online Quiz Management System" is a database-driven project designed to man
 3. Execute the SQL scripts provided in the project
 4. Run queries to view, insert, and analyze quiz/user data.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5eaa2c9d-0d6d-4dbe-960d-f28cdb8cb3ba" />
-
 
 📈 Use Case
 
